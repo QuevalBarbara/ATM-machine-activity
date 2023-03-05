@@ -1,7 +1,11 @@
-# ATM-machine-practice-
+# ATM-machine-activity
 ATM activity for MITxPro Coding certificate 
 
-In this exercise, we learn how to keep track of the state of an automated teller machine or ATM. An ATM is a machine that you can use to withdraw or deposit cash to your bank account. We create a simple ATM with two components (the bank and the ATM) and learn how to synchronize them so that the account balance updates when cash is deposited or withdrawn
+In this exercise, we learn how to keep track of the state of an automated teller machine or ATM. An ATM is a machine that you can use to withdraw or deposit cash to your bank account. 
+
+![ATM](atm.png)
+
+We create a simple ATM with two components (the bank and the ATM) and learn how to synchronize them so that the account balance updates when cash is deposited or withdrawn.
 We adding validation so users can’t withdraw more money than the account balance and modify the user interface to require users to select deposit or withdraw before an input field is visible
 
 	
